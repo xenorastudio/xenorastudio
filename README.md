@@ -26,53 +26,7 @@
 
 </div>
 
----
 
-<div align="center">
-
-## 💼 Projects & Focus
-
-</div>
-
-<div align="center">
-
-### 🌍 **Game Worlds** 
-**Building detailed visual worlds** • *🔥 In Progress*
-
-### 🛠️ **Tools & Systems** 
-**Unity gameplay tools & utilities** • *⚡ Active*
-
-### ✨ **Shaders & FX** 
-**Unreal Engine shaders & animations** • *🔍 Exploring*
-
-### 🎨 **3D Modeling** 
-**Character & environment modeling** • *🔄 Ongoing*
-
-</div>
-
----
-
-<div align="center">
-
-## ⚙️ Skills
-
-</div>
-
-<div align="center">
-
-### 🔷 **Blender**
-![90%](https://progress-bar.dev/90/?title=Master&width=300&color=00d4ff&suffix=%)
-
-### 🎮 **Unreal Engine**
-![85%](https://progress-bar.dev/85/?title=Expert&width=300&color=ff6b6b&suffix=%)
-
-### ⚡ **Unity 6**
-![95%](https://progress-bar.dev/95/?title=Wizard&width=300&color=4ecdc4&suffix=%)
-
-### 💻 **C#**
-![90%](https://progress-bar.dev/90/?title=Pro&width=300&color=feca57&suffix=%)
-
-</div>
 
 ---
 
