@@ -19,10 +19,10 @@
 
 <div align="center">
 
-## 🚀 About Me
+## About Me
 
-### ✨ I'm passionate about creating immersive virtual worlds and engaging gameplay experiences
-### 🎨 I blend 3D artistry with game development to bring ideas to life
+###  I'm passionate about creating immersive virtual worlds and engaging gameplay experiences
+###  I blend 3D artistry with game development to bring ideas to life
 
 </div>
 
