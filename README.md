@@ -1,67 +1,72 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hello" width="100" />
+</p>
 
-###
+<h1 align="center">Hi, I'm Aws 👋</h1>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+<p align="center">
+  <b>Solo Game Developer & 3D Artist</b><br />
+  Specialized in <b>Blender</b>, <b>Unreal Engine</b>, <b>Unity 6</b>, and <b>C#</b>.
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+## 🚀 About Me
 
-###
+I'm passionate about creating immersive virtual worlds and engaging gameplay experiences.  
+I blend 3D artistry with game development to bring ideas to life.
 
-<h1 align="center">hey there 👋</h1>
+---
 
-###
+## 💼 Projects & Focus
 
-<h3 align="left">👩‍💻  About Me</h3>
+| Project         | Description                         | Status      |
+| --------------- | --------------------------------- | ----------- |
+| Game Worlds     | Building detailed visual worlds    | In Progress |
+| Tools & Systems | Unity gameplay tools & utilities   | Active      |
+| Shaders & FX    | Unreal Engine shaders & animations | Exploring   |
+| 3D Modeling     | Character & environment modeling   | Ongoing     |
 
-###
+---
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+## ⚙️ Skills
 
-###
+| Technology       | Level      |
+| ---------------- | ---------- |
+| Blender          | ![90%](https://progress-bar.dev/90/?title=Blender) |
+| Unreal Engine    | ![85%](https://progress-bar.dev/85/?title=Unreal)  |
+| Unity 6          | ![95%](https://progress-bar.dev/95/?title=Unity)   |
+| C#               | ![90%](https://progress-bar.dev/90/?title=CSharp)  |
 
-<h3 align="left">🛠 Language and tools</h3>
+---
 
-###
+## 📫 Contact Me
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
+<p align="center">
+  <a href="mailto:swamakerswa@gmail.com" title="Send Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.artstation.com/swamaker4" target="_blank" title="ArtStation">
+    <img src="https://img.shields.io/badge/ArtStation-Black?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation" />
+  </a>
+  <a href="https://assetstore.unity.com/publishers/95498" target="_blank" title="Unity Asset Store">
+    <img src="https://img.shields.io/badge/Unity%20Store-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Store" />
+  </a>
+  <a href="https://www.youtube.com/@Xenora_Studio" target="_blank" title="YouTube">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+## 📊 GitHub Stats
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swamakerswa&show_icons=true&theme=dark" alt="Aws's GitHub stats" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+---
 
-###
+<p align="center">
+  Thanks for visiting my profile! 🚀
+</p>
