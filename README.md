@@ -54,19 +54,7 @@
 
 ---
 
-<div align="center">
 
-## 📊 GitHub Stats
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=swamakerswa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&border_radius=15" alt="Aws's GitHub stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=swamakerswa&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=ff6b6b&fire=feca57&currStreakLabel=ffffff&border_radius=15" alt="GitHub Streak" />
-
-</div>
-
----
 
 <div align="center">
 
